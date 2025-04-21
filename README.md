@@ -30,6 +30,9 @@ AI_DERMA_BOT is trained to recognize and respond to the following skin condition
 - Herpes Zoster  
 - Vitiligo  
 
+---
+Connect with AI-powered dermatology assistant:  
+👉 [Click here to chat](https://t.me/karthik_ai_mgit_bot) with **AI DERMA BOT**
 > **Note:** This tool is for informational purposes only. It is not a replacement for medical diagnosis. Please consult a licensed medical professional for clinical assessment and treatment.
 
 
